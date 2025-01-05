@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CRICKETER = ("sachin" "dravid" "laxman")
+CRICKETER=("sachin" "dravid" "laxman")
 
 echo "first player: ${CRICKETER[0]}"
 echo "first player: ${CRICKETER[1]}"
